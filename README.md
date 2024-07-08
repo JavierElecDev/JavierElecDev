@@ -9,12 +9,12 @@
 
 <h2><b>About Me</b></h2>
 
-* 😄I am part of the IT Management and FDL Development team.
+* 😄I am part of the IT Management and FDLT Development team.
 * 🤔I am currently learning about Apex Oracle and UX/UI.
-* 🌱I enjoy working on projects that involve electronics and sensors.
+* 🌱I enjoy working on projects that involve electronics and sensors or management platforms of information.
 * 💬I primarily focus on deployment for GNU/Linux servers (it's my favorite OS).
-* 🤔I use microcontrollers, Raspberry PI, Arduino, and more.
-* 🤔I develop mobile applications and use Odoo packages.
+* 🤔I like use microcontrollers, Raspberry PI, Arduino, and other platforms to create interesting things.
+* 🤔I develop mobile applications and practice with Odoo packages.
 
 <p style="font-size: 30px;"><b>A glimpse of what I typically do and what I am learning:</b></p>
 	
@@ -111,7 +111,8 @@
 
   <td>
 
-  ![Static Badge](https://img.shields.io/badge/html-gray?style=for-the-badge&logo=CSS&color=%2378a1ec)
+![Static Badge](https://img.shields.io/badge/CSS-ligth?style=for-the-badge&logo=CCS3&logoColor=%235070ff&labelColor=%235070ff&color=%235070ff)
+
 
 	  
   </td>
