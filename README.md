@@ -59,6 +59,8 @@
         </tr>
 </table>
 
+<p style="font-size: 35px;"><b>Skills:</b></p>
+<img src="https://i.imgur.com/QkzFlO2.gif" width="600" height="350 style="float: center;>
 <p style="font-size: 30px;"><b>Languages:</b></p>
 
 <table border="0">
