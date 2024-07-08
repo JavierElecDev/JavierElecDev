@@ -1,5 +1,7 @@
-## Hello everyone, I'm Javier! 👋
-
+<h1 align="center">
+	<b>Hello everyone, I'm Javier! 👋 </b>
+	<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffcit.usf.edu%2Fmatrix%2Fproject%2Frobot-78-happy-dance-animated-gif-robot%2F&psig=AOvVaw2_3ZC4iSvHVWTFAJwPeMfs&ust=1720487494169000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJiE7MOhlocDFQAAAAAdAAAAABBE" width="40">
+</h1>
 <!--
 **JavierElecDev/JavierElecDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
