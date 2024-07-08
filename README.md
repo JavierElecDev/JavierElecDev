@@ -22,13 +22,13 @@
 	<tr>
             <td>
             	<a href="https://youtu.be/w8K4xpws4mY?si=9QIqghWKXrJ5_R-E">
-            		<img src="https://i.imgur.com/dvwy07J.png" width="500">
+            		<img src="https://i.imgur.com/dvwy07J.png" width="300">
             	</a>
             	<p align="center">Haz Click para ver la Demo Androd</p>
             </td>
             <td>
             	<a href="https://youtu.be/okLMnjpJe8k?si=RJJmQKuZpC2C1b19">
-            		<img src="https://i.imgur.com/UdBK6wY.png" width="500">
+            		<img src="https://i.imgur.com/UdBK6wY.png" width="300">
             	</a>
             	<p align="center">Haz Click para ver la Demo Odoo14</p>
             </td>
@@ -36,25 +36,26 @@
         <tr>
             <td>
             	<a href="https://youtu.be/YTB9Kal7uP4?si=wjXqxnrU9mAlxU54">
-            		<img src="https://i.imgur.com/MQqHCKj.png" width="500">
+            		<img src="https://i.imgur.com/MQqHCKj.png" width="300">
             	</a>
             	<p align="center">Haz Click para ver Config Linux</p>
             </td>
             <td>
             	<a href="https://youtu.be/feXoikYnfog?si=yVPi2y9xRxroQWiS">
-            		<img src="https://i.imgur.com/oAQS94k.png" width="500">
+            		<img src="https://i.imgur.com/oAQS94k.png" width="300">
             	</a>
+		    <p align="center">Haz Click para ir al Demo</p>
             </td>
         </tr>
         <tr>
         	<td>
         		<a href="https://youtu.be/sp_Y2suuNGo">
-        			<img src="https://i.imgur.com/TeYR0Fg.png" width="500">
+        			<img src="https://i.imgur.com/TeYR0Fg.png" width="300">
         		</a>
         		<p align="center">Haz Click para ver TunjoLab</p>
         	</td>
             <td>
-		    <img src="https://cdn.dribbble.com/users/1478340/screenshots/5590733/media/8ac3737ac4a0d3c5645f57ea22c81514.gif" width="500"></td>
+		    <img src="https://cdn.dribbble.com/users/1478340/screenshots/5590733/media/8ac3737ac4a0d3c5645f57ea22c81514.gif" width="300"></td>
         </tr>
 </table>
 
